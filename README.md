@@ -20,7 +20,8 @@
 - **Routing:** React Router v7  
 - **State Management:** Context API  
 - **Notifications:** React Toastify  
-- **Styling:** Tailwind CSS / CSS3  
+- **Styling:** Bootstrap, HTML5, CSS3  
+- **Programming:** JavaScript (ES6+)
 
 ---
 
